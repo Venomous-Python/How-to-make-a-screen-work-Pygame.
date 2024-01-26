@@ -1,3 +1,5 @@
+Please Note: I learned this before from Coding with Russ!
+
 import pygame (this just changes how python behaves to make it easier to create games)
 
 pygame.init() (initializes pygame)
